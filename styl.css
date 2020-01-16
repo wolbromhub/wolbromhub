@@ -2,7 +2,9 @@ body{
 width:100%;
 height:100%;
 position: absolute;
+    color:white;
 }
+
 
 #zakladki{
 width:100%;
@@ -27,30 +29,27 @@ font-family: Arial,Helvetica,sans-serif;
 
 #srodek{
 width:100%;
-height:110%;
+height:200%;
 background-color:black;
 }
 
 #dol{
 width:100%;
 height:20%;
-background-color:#363636;
-    
+background-color:#363636;   
 }
 
 #dol1{
 width:100%;
 height:10%;
-background-color:black;
-    
+background-color:black;   
 }
 
 #lewa{
     width:25%;
     height:100%;
     background-color:#363636;
-    float:left;
-    
+    float:left;   
 }
 #srodek1{
     width:25%;
@@ -63,19 +62,23 @@ background-color:black;
     width:25%;
     height:100%;
     background-color:#363636;
-    float:right;
-    
-    
+    float:right;   
 }
 
 #srodek3{
    width:25%;
    height:100%;
    background-color:#363636;
-   float:right;
-    
-   
+   float:right;  
 }
+
+
+
+
+
+
+
+
 
 
 
@@ -97,14 +100,17 @@ h2{
 
 
 
+
+
+
+
+
+
 #cam{
     color:white;
     margin-left:35%;
-    font-size:20px;
-       
+    font-size:20px;      
 }
-
-
 
 
 #fuck{
@@ -112,12 +118,9 @@ h2{
 }
     
 
-
-
 #premium{
     font-size:20px;
 }
-
 
 
 #wlb{
@@ -126,10 +129,91 @@ h2{
 }
 
 
+
+
+
+
+
 #jeden{
     width:300px;
     height:300px;
+    margin-left:10%;
+    margin-top:3%;
+    position: absolute;
+    
+    
+  
 }
+
+#dwa{
+    width:400px;
+    height:400px;
+    margin-left:32%;
+    position: absolute;
+    
+}
+#trzy{
+    width:400px;
+    height:400px;
+    margin-left:60%;
+    position: absolute;
+}
+
+#cztery{
+    width:400px;
+    height:300px;
+    margin-left:5%;
+    margin-top:30%;
+    position: absolute;
+}
+
+#piec{
+    width:400px;
+    height:300px;
+    margin-left:32%;
+    margin-top:30%;
+    position: absolute;
+}
+
+#szesc{
+    width:400px;
+    height:300px;
+    margin-left:60%;
+    margin-top:30%;
+    position: absolute;
+}
+
+#siedem{
+    width:400px;
+    height:300px;
+    margin-left:10%;
+    margin-top:60%;
+    position: absolute;
+}
+
+#osiem{
+    width:400px;
+    height:300px;
+    position: absolute;
+    margin-top:60%;
+    margin-left:40%;
+}
+
+#dziewiec{
+    width:400px;
+    height:300px;
+    position: absolute;
+    margin-top:60%;
+    margin-left:65%;
+}
+    
+
+
+
+
+
+
+
 
 #zasady{
     color:orange;
@@ -138,8 +222,7 @@ h2{
 }
 #polityka{
     color:orange;
-    font-size:20px;
-    
+    font-size:20px;   
 }
 
 #part{
@@ -211,8 +294,6 @@ h2{
     margin-left:-2%;
     font-family: Arial,Helvetica,sans-serif;
 }
-
-
 
 
 #searchInput{
