@@ -1,7 +1,7 @@
 body{
 width:100%;
 height:100%;
-background-color: ;
+position: absolute;
 }
 
 #zakladki{
@@ -12,6 +12,74 @@ text-align:center;
     font-family: Arial,Helvetica,sans-serif;
 }
 
+#gora{
+width:100%;
+height:8%;
+background-color:#000;
+font-family: Arial,Helvetica,sans-serif;
+}
+
+#gora1{
+    width:100%;
+    height:3%;
+    background-color: #363636;
+}
+
+#srodek{
+width:100%;
+height:110%;
+background-color:black;
+}
+
+#dol{
+width:100%;
+height:20%;
+background-color:#363636;
+    
+}
+
+#dol1{
+width:100%;
+height:10%;
+background-color:black;
+    
+}
+
+#lewa{
+    width:25%;
+    height:100%;
+    background-color:#363636;
+    float:left;
+    
+}
+#srodek1{
+    width:25%;
+    height:100%;
+    background-color:#363636;
+    float:right;
+}
+
+#srodek2{
+    width:25%;
+    height:100%;
+    background-color:#363636;
+    float:right;
+    
+    
+}
+
+#srodek3{
+   width:25%;
+   height:100%;
+   background-color:#363636;
+   float:right;
+    
+   
+}
+
+
+
+
 a{
     color:white;
     text-decoration:none;
@@ -19,44 +87,133 @@ a{
     font-family: Arial,Helvetica,sans-serif;
 }
 
+h2{
+    text-align:left;
+    color:gray;
+}
+
+
+
+
+
+
 #cam{
     color:white;
     margin-left:35%;
     font-size:20px;
-    
-    
+       
 }
+
+
+
 
 #fuck{
     font-size:20px;
 }
     
 
+
+
 #premium{
     font-size:20px;
 }
+
+
 
 #wlb{
     margin-left:15%;
     position:absolute;
 }
 
+
+#jeden{
+    width:300px;
+    height:300px;
+}
+
+#zasady{
+    color:orange;
+    font-size:20px;
+    
+}
+#polityka{
+    color:orange;
+    font-size:20px;
+    
+}
+
+#part{
+    color:orange;
+    font-size:20px;
+}
+#rek{
+    color:orange;
+    font-size:20px;
+}
+#web{
+   color:orange;
+    font-size:20px; 
+}
+#info{
+    margin-left:10%;
+}
+
+#faq{
+    color:orange;
+    font-size:20px;
+}
+
+#sko{
+    color:orange;
+    font-size:20px;
+}
+#forum{
+    color:orange;
+    font-size:20px;
+}
+
+#mapa{
+    color:orange;
+    font-size:20px;
+}
+
+#blog{
+    color:orange;
+    font-size:20px;
+}
+
+#cent{
+    color:orange;
+    font-size:20px;
+    margin-right:20%;;
+}
+
+
+
+
+
+
+
+
+
+
+
 #headerLoginLink{
     color:white;
     font-family: Arial,Helvetica,sans-serif;
     margin-left:20%;
 }
+
+
+
 #headerRegisterLink{
     color:white;
     margin-left:-2%;
     font-family: Arial,Helvetica,sans-serif;
 }
-#gora{
-width:100%;
-height:8%;
-background-color:#000;
-font-family: Arial,Helvetica,sans-serif;
-}
+
+
+
 
 #searchInput{
     border: none;
@@ -71,8 +228,3 @@ font-family: Arial,Helvetica,sans-serif;
     text-align:center;  
 }
 
-#gora1{
-    width:100%;
-    height:3%;
-    background-color: #363636;
-}
