@@ -5,6 +5,12 @@ position: absolute;
     color:white;
 }
 
+@media (max-width: 800px) and (min-width: 500px) {
+
+/* style dla 450px */
+
+}
+
 
 #zakladki{
 width:100%;
