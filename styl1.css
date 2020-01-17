@@ -172,3 +172,22 @@ background-color:black;
    margin-top:1%;
     
 }
+
+h2{
+    color:white;
+}
+
+
+
+.galeria{
+    margin: 10px 50px;
+}
+
+.galeria img{
+    width:230px;
+    padding: 5px;
+}
+
+.galeria img:hover{
+    transform: scale(2);
+}
