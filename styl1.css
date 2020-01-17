@@ -53,3 +53,122 @@ font-family: Arial,Helvetica,sans-serif;
     height:3%;
     background-color: #363636;
 }
+
+#srodek{
+width:100%;
+height:80%;
+background-color:black;
+}
+
+#dol{
+width:100%;
+height:20%;
+background-color:#363636;   
+}
+
+#lewa{
+    width:25%;
+    height:100%;
+    background-color:#363636;
+    float:left;   
+}
+#srodek1{
+    width:25%;
+    height:100%;
+    background-color:#363636;
+    float:right;
+}
+
+#srodek2{
+    width:25%;
+    height:100%;
+    background-color:#363636;
+    float:right;   
+}
+
+#srodek3{
+   width:25%;
+   height:100%;
+   background-color:#363636;
+   float:right;  
+}
+
+#dol1{
+width:100%;
+height:10%;
+background-color:black;   
+}
+
+#zasady{
+    color:orange;
+    font-size:20px;
+    
+}
+#polityka{
+    color:orange;
+    font-size:20px;   
+}
+
+#part{
+    color:orange;
+    font-size:20px;
+}
+#rek{
+    color:orange;
+    font-size:20px;
+}
+#web{
+   color:orange;
+    font-size:20px; 
+}
+#info{
+    margin-left:10%;
+}
+
+#faq{
+    color:orange;
+    font-size:20px;
+}
+
+#sko{
+    color:orange;
+    font-size:20px;
+}
+#forum{
+    color:orange;
+    font-size:20px;
+}
+
+#mapa{
+    color:orange;
+    font-size:20px;
+}
+
+#blog{
+    color:orange;
+    font-size:20px;
+}
+
+#cent{
+    color:orange;
+    font-size:20px;
+    margin-right:20%;;
+}
+
+
+#insta{
+    margin-left:40%;
+    margin-top:1%;
+}
+
+#face{
+   margin-left:5%;
+   margin-top:1%;
+   position: absolute;
+}
+
+#twi{
+   margin-left:12%;
+   margin-top:1%;
+    
+}
