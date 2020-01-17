@@ -144,6 +144,23 @@ video{
     position:absolute;
 }
 
+#insta{
+    margin-left:40%;
+    margin-top:1%;
+}
+
+#face{
+   margin-left:5%;
+   margin-top:1%;
+   position: absolute;
+}
+
+#twi{
+   margin-left:12%;
+   margin-top:1%;
+    
+}
+
 
 
 
@@ -318,6 +335,10 @@ video{
     color:white;
     margin-left:-2%;
     font-family: Arial,Helvetica,sans-serif;
+  
+        
+        
+        
 }
 
 
