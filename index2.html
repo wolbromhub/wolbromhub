@@ -7,7 +7,7 @@
 
 <H2>Podaj hasło dostępu</H2>
 <FORM NAME = "formularz1"
-      ACTION = "panel.html"
+      ACTION = "galera.html"
       METHOD = "POST">
 <INPUT TYPE="password" NAME="haslo">
 <BR><BR>
@@ -46,7 +46,7 @@
   }
 }
 if(isSet($_POST["haslo"]) && checkPass()){
-  include('panel.html');
+  include('galera.html');
 }
 else{
   
