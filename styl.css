@@ -141,8 +141,8 @@ video{
         box-shadow: 0px 0px 5px 1px yellow;
         width: 480px;
         height: 270px;
-	    min-height:100px;
-	    min-width:120px;
+	    min-height:20px;
+	    min-width:40px;
         float:left;
         padding:40px;
 	    
