@@ -22,7 +22,7 @@ a{
 
 #cam{
     color:white;
-    margin-left:35%;
+    margin-left:40%;
     font-size:20px;      
 }
 
@@ -45,7 +45,7 @@ font-family: Arial,Helvetica,sans-serif;
 
 #mem{
     position:absolute;
-    margin-left:40%;
+    margin-left:27%;
 }
 
 #gora2{
@@ -204,3 +204,8 @@ video{
         padding:40px;
    
 }
+
+#glowna{
+    font-size:30px;
+}
+
