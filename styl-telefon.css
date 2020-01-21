@@ -2,9 +2,42 @@ video{
         display: block;
         margin:20px;
         border-radius: 5px;
-        box-shadow: 0px 0px 5px 1px yellow;
-        width: 240px;
-        height: 135px;
+        box-shadow: 0px 0px 5px 1px blue;
+        width: 1000px;
+        height: 60px;
         float:left;
         padding:40px;  
 }
+
+#zakladki{
+width:auto;
+height:2%;
+background-color:#363636;
+text-align:center;
+font-family: Arial,Helvetica,sans-serif;
+}
+
+a{
+    color:white;
+    text-decoration:none;
+    margin:20px;
+    font-family: Arial,Helvetica,sans-serif;
+	font-size:10px;
+}
+
+#gora{
+width:auto;
+height:8%;
+background-color:#000;
+font-family: Arial,Helvetica,sans-serif;
+}
+
+#glowna{
+    font-size:20px;	
+}
+
+#wlb{
+    margin-left:30%;
+	width:60px;
+}
+
