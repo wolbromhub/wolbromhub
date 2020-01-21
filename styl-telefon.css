@@ -2,11 +2,9 @@ video{
         display: block;
         margin:20px;
         border-radius: 5px;
-        box-shadow: 0px 0px 5px 1px blue;
-        width: auto;
-        height: auto;
+        box-shadow: 0px 0px 5px 1px yellow;
+        width: 240px;
+        height: 135px;
         float:left;
-        padding:40px;
-	
-   
+        padding:40px;  
 }
