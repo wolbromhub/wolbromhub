@@ -1,0 +1,12 @@
+video{
+        display: block;
+        margin:20px;
+        border-radius: 5px;
+        box-shadow: 0px 0px 5px 1px blue;
+        width: auto;
+        height: auto;
+        float:left;
+        padding:40px;
+	
+   
+}
