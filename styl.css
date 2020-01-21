@@ -3,7 +3,6 @@ width:100%;
 height:100%;
 position: absolute;
 color:white;
-
 }
 
 
@@ -146,7 +145,7 @@ video{
 	    min-width:40px;
         float:left;
         padding:40px;
-	    
+	
    
 }
 
@@ -205,6 +204,23 @@ video{
     color:orange;
     font-size:20px;
     margin-right:20%;;
+}
+
+@media only screen and (max-width: 600px){
+	#video{
+		display: block;
+        margin:20px;
+        border-radius: 5px;
+        box-shadow: 0px 0px 5px 1px blue;
+        width: 480px;
+        height: 270px;
+	    min-height:20px;
+	    min-width:40px;
+        float:left;
+        padding:40px;
+	
+	}
+		
 }
 
 
