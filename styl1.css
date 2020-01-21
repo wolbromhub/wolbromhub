@@ -56,7 +56,7 @@ font-family: Arial,Helvetica,sans-serif;
 
 #srodek{
 width:100%%;
-height:950%;
+height:800%;
 background-color:black;
 }
 
@@ -207,4 +207,46 @@ video{
 #glowna{
     font-size:30px;
 }
+
+nav.nextpage a {
+    display: block;
+    height: 35px;
+    width: 750px;
+    padding-top: 12px;
+    color: #fff;
+    font-weight: 400;
+    text-shadow: 0 -1px 1px #9b0e00;
+	background-color: darkgray;
+	box-shadow: 0px 0px 5px 1px yellow;
+	font-size:25px;
+	margin-left:20%;
+}
+
+
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+	width:30px;
+	margin-left:40%;
+	margin-top:2%;
+}
+
+
+
+.strony span {
+    background-color: darkgray;
+	display:block;
+	height:30px;
+	width:60px;
+	text-align:center;
+	font-size:25px;
+	overflow: hidden;
+	text-shadow: 0 -1px 1px #000;
+}
+
+
+
+
+
 

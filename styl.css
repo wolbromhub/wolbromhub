@@ -1,8 +1,6 @@
 body{
 width:100%;
 height:100%;
-position: absolute;
-color:white;
 }
 
 
@@ -79,12 +77,12 @@ background-color:black;
 
 
 #wlb{
-    margin-left:30%;
+    margin-left:27%;
 }
 
 #cam{
     color:white;
-    margin-left:43%;
+    margin-left:40%;
     font-size:20px;      
 }
 
@@ -126,8 +124,9 @@ background-color:black;
 a{
     color:white;
     text-decoration:none;
-    margin:20px;
     font-family: Arial,Helvetica,sans-serif;
+	text-align:center;
+	padding:40px; 
 }
 
 
@@ -207,6 +206,10 @@ video{
     margin-right:20%;;
 }
 
+
+.galeria{
+    margin: 0px 10px;
+}
 
 
 
